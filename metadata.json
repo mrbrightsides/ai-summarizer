@@ -1,0 +1,6 @@
+{
+  "name": "AI Summarizer",
+  "description": "Aplikasi web modern dan ramah pemula untuk meringkas teks panjang secara cerdas menggunakan Google Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
