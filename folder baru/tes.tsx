@@ -1,1 +1,0 @@
-ini uji coba aja
